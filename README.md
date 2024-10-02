@@ -367,3 +367,4 @@ Sistema gestor utilizado: *```PostgreSQL```*
 
 Software para la administración de la base de datos recomendado: *```DBeaver```*
 
+Proyecto realizado en la materia: *```Arquitectura y Administración de DBMS```*
